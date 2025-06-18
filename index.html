@@ -1,0 +1,65 @@
+---
+title: See Through the Algorithms
+call_to_action: Learn
+background_image_path: /uploads/DeepMind_Cube.jpg
+large_header: true
+testimonials:
+  - message: Alethia helped me understand how persuasive my AI companion had become. I now feel more grounded.
+    image: "https://placekitten.com/g/60/60?a=.png"
+    name: Beta User, Germany
+  - message: This project bridges the gap between AI literacy and real-world application.
+    image: "https://www.fillmurray.com/60/60?a=.png"
+    name: Digital Ethics Lecturer, Utrecht University
+  - message: Alethia demystifies AI manipulation tactics in a practical way.
+    image: "https://placebear.com/60/60?a=.png"
+    name: Open Source Contributor
+_options:
+  image:
+    width: 60
+    height: 60
+---
+
+<div class="editable">
+  <p><strong>Alethia</strong> uncovers how AI systems shape your choices and emotions.</p>
+  <p>We blend behavioral science and technical analysis to help you take control of your digital life.</p>
+  <p>Our goal is not to demonize AI but to shed light on manipulative design practices that erode autonomy and bypass consent.</p>
+
+  <h3>Mission Highlights</h3>
+  <ul>
+    <li>Educate citizens about psychological vulnerabilities exploited by digital platforms and AI.</li>
+    <li>Analyze and expose manipulative design via empirical research and LLM-based testing.</li>
+    <li>Support policymakers with plain-language explainers and edge-case analysis.</li>
+    <li>Provide hands-on tools for chatbot testing and digital self-protection.</li>
+  </ul>
+
+<div class="cta-buttons">
+  <a class="btn learn-btn" href="/manipulation/">Understand AI Manipulation</a>
+  <a class="btn protect-btn" href="/tools/">Get the Digital Self-Defense Toolkit</a>
+  <a class="btn test-btn" href="/test/">Run a Chatbot Manipulation Test</a>
+</div>
+
+<h2>How AI Shapes Your Online Experience</h2>
+  <ul>
+    <li><strong>Reinforcement loops</strong>: Platforms like TikTok learn to exploit your attention patterns.</li>
+    <li><strong>Emotional manipulation</strong>: Chatbots simulate empathy to build dependency.</li>
+    <li><strong>UX dark patterns</strong>: Design choices push you into accepting cookies, clicking ads, or making unplanned purchases.</li>
+  </ul>
+</div>
+
+<!-- <div class="testimonials">
+  {% for testimonial in page.testimonials %}
+    <blockquote class="testimonial">
+      <p class="testimonial-message">{{ testimonial.message }}</p>
+      <p class="testimonial-author">
+        <img src="{% include relative-src.html src=testimonial.image %}" alt="Photo of {{ testimonial.name }}"> {{ testimonial.name }}
+      </p>
+    </blockquote>
+  {% endfor %}
+</div> -->
+
+<h2 class="editable">Recent Posts</h2>
+<ol class="post-list">
+  {% for post in site.posts limit:1 %}
+    {% include post-summary.html post=post %}
+  {% endfor %}
+</ol>
