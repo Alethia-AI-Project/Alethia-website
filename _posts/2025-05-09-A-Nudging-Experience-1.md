@@ -9,6 +9,7 @@ large_header: false
 ---
 
 ## When Nudging Becomes Manipulation
+
 Have you ever opened an app “just for a minute,” only to look up an hour later wondering where the time went? That’s not just chance, it’s design.
 
 Today’s most popular platforms like TikTok, Instagram, and Netflix are built to capture and keep your attention. They use subtle interface choices, what designers call nudges or choice architecture, to guide your behavior. These nudges might seem harmless, even helpful. But when they tap into your habits, emotions, and psychological biases to push you toward endless scrolling or binge-watching, the line between persuasion and manipulation starts to blur.

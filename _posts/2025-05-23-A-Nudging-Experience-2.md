@@ -1,6 +1,6 @@
 ---
 title: "A Nuging Experience - Part 2"
-date: 2025-05-09 09:47:01
+date: 2025-05-23 09:47:01
 categories:
   - Nudging and Manipulation
 author_staff_member: maheep-gupta
@@ -8,6 +8,7 @@ image: /images/button.png
 large_header: false
 ---
 ## Beyond the Scroll – What Really Keeps Us Hooked?
+
 In our [previous article](#), we explored how platforms like TikTok, Instagram, and Netflix use design patterns to guide user behavior in subtle but powerful ways. These choices, often framed as “nudges,” can slide into manipulation when they exploit psychological shortcuts or undermine our autonomy.
 
 But how exactly do these persuasive systems work and why are they so hard to resist?
