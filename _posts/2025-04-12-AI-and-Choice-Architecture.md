@@ -8,7 +8,7 @@ image: /images/AI-david.png
 large_header: false
 ---
 
-### A New Relationship with AI 
+## A New Relationship with AI 
 Just over a decade after the movie 'Her' imagined a man falling in love with his AI assistant, reality is catching up to that fictional future. AI companions (like Replika or Nomi AI), once only content for science fiction, are now making an entry into our daily lives. Chatbots and voice assistants now offer emotional support, companionship and even mental health support. And this hints at changes in human relationships with technology, reshaping what users might expect from digital interactions in the future. 
 
 These developments are both exciting and unsettling. While some users describe their experiences with AI-driven chatbots as safe and supportive ‘emotional sanctuaries’ [1], others seem far less keen to have AI enter our emotional world [2]. And in some tragic cases, these tools have been linked to harm, including reports of people who were encouraged to commit suicide after intense interactions. [3,4] 
